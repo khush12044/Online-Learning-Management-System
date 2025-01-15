@@ -74,6 +74,6 @@ The application will use JSON Web Tokens (JWTs) for authentication and authoriza
 
 ## About
 
-This repository is contributed by [@kartik1502](https://github.com/kartik1502), which mainly focuses on the Spring boot application using JWT Authentication.
+This repository is contributed by [@khush12044](https://github.com/khush12044), which mainly focuses on the Spring boot application using JWT Authentication.
 # Online-Learning-Management-System
 The Online Learning Management System is a web-based application that enables educational institutions and individual instructors to manage their courses and course materials. The platform will allow registered users to create and manage their courses, upload course materials such as lectures, assignments, and quizzes, and grade student submissions
